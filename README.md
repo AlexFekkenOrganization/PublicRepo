@@ -1,1 +1,1 @@
-# Just a Public Repo
+# Just a Public Repo without a Wiki
